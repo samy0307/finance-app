@@ -21,16 +21,3 @@ model Transaction {
   description String?
   date        DateTime
 }
-
-//model Asset {
-//  id     Int    @id @default(autoincrement())
-//  type   String
-//  value  Float
-//}
-
-//model Goal {
-//  id          Int    @id @default(autoincrement())
-//  description String
-//  target      Float
-//  progress    Float
-//}
