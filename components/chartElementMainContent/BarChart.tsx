@@ -46,6 +46,7 @@ function BarChart() {
 
   const options = {
     indexAxis: "y" as const,
+
     elements: {
       bar: {
         borderWidth: 1,
